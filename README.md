@@ -4,12 +4,12 @@
 
 **In need of plain HTML code!!!**
 
-Welcome to the **UOR Foundation Homepage** [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the **OFFICIAL UOR Foundation** [**Homepage**](https://uor-foundation.github.io/uor-homepage/). 
+Welcome to the UOR Foundation Homepage [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the **OFFICIAL UOR Foundation** [**Homepage**](https://uor-foundation.github.io/uor-homepage/). 
 
-The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) serves as the authoritative entry point for everything related to the UOR Foundation, providing access to all people, projects, content, and governance materials.
+- The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) serves as the authoritative entry point for everything related to the UOR Foundation, providing you access to all people, projects, content, and governance materials.
 
 
-The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) is your portal to all other UOR webpages designed in accordance with the three (3) policies in this repo.
+- The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) is your portal to any other UOR webpages you design in accordance with the three (3) policies in this repo.
 
 This repository embraces the philosophy of simplicity, using **pure HTML** to create *form* combined with the power of **GitHub Actions** to create *function*al, elegant, and efficient web pages without relying on JavaScript, CSS, or other additional languages.
 
