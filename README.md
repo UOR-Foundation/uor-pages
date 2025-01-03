@@ -4,23 +4,22 @@
 
 **In need of plain HTML code!!!**
 
-Welcome to the UOR Foundation Homepage [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the **OFFICIAL UOR Foundation** [**Homepage**](https://uor-foundation.github.io/uor-homepage/). 
+Welcome to the UOR Foundation Homepage [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the "OFFICIAL" UOR Foundation [**Homepage**](https://uor-foundation.github.io/uor-homepage/). 
 
-- The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) serves as the authoritative entry point for everything related to the UOR Foundation, providing you access to all people, projects, content, and governance materials.
+- The [index.html](./index.html) file **IS** the OFFICIAL Hompage of the UOR Foundation. Located in the same folder as this README.md file.
 
+- The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) serves as the authoritative entry point for everything related to the UOR Foundation, providing you access to all people, projects, content, and source code in the UOR Community.
 
-- The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) is your portal to any other UOR webpages you design in accordance with the three (3) policies in this repo.
+- The [**Official UOR Foundation Homepage**](https://uor-foundation.github.io/uor-homepage/) is your portal to the webpages in support of the UOR Foundation's mission that you design in accordance with the three (3) policies in this repo.
 
 This repository embraces the philosophy of simplicity, using **pure HTML** to create *form* combined with the power of **GitHub Actions** to create *function*al, elegant, and efficient web pages without relying on JavaScript, CSS, or other additional languages.
-
-The [index.html](./index.html) file **IS** the OFFICIAL Hompage of the UOR Foundation. Located in the same folder as this README.md file.
 
 ## Purpose
 This repository is dedicated to:
 - The overall development of new devops workflows in support of the UOR Machine.
-- Demonstrating the power of **pure HTML** as a foundational tool for creating accessible and elegant websites.
+- Providing a central entry point for all UOR Foundation resources while adhering to the principle of simplicity and the [**3-click rule**](https://en.wikipedia.org/wiki/Three-click_rule).
 - Leveraging **GitHub Actions** for backend automation, content updates, and dynamic functionality without introducing additional complexity.
-- Providing a central entry point for all UOR Foundation resources, adhering to the principle of simplicity and the **3-click rule**.
+- Demonstrating the power of **pure HTML** as a foundational tool for creating accessible and elegant websites.
 
 ## Philosophy
 The UOR Foundation Homepage embodies a minimalist design philosophy that aligns with early web principles:
@@ -29,13 +28,13 @@ The UOR Foundation Homepage embodies a minimalist design philosophy that aligns 
 3. **Focus on Content:** By avoiding unnecessary embellishments, the emphasis remains on delivering clear, relevant, and accessible information.
 
 # Co-create a Safe, Friendly, & Creative Community
-The UOR Foundation casts a wide net to attract developers from all over. Respect & kindness are values we practice, hold and react to positively. Other acts demostrated by members that do not fall under kindness & respect will be ignored or properly handled for removal* to ensure a friendly, safe & creative environment. 
+The UOR Foundation casts a wide net to attract developers from all over. Respect & kindness are values we practice, hold and react to positively. Other acts demostrated by members that do not fall under kindness & respect will be ignored or properly handled for removal to ensure a friendly, safe & creative environment. 
 
 We will always maintain the desire to co-create a friendly and open community. We believe a foundation grounded in **respect & kindness** is the key to a friendly and open community.
 
 We also believe in forgiveness...creating new and exciting software will inevitably create disagreements. Disagreements lead to frustrations. Frustrations lead to loud words. And loud wor...well you get the idea. We make mistakes. Just stick to respect & kindness and have fun!
 
- Now back to business!
+ Now back to business*!
 
 ## Three Policies for Developers:
 
@@ -86,6 +85,7 @@ jobs:
 ```
 
 ### 3. **Maintaining Simplicity**
+- The [**3-click rule**](https://en.wikipedia.org/wiki/Three-click_rule).
 - Focus on plain content delivery.
 - Avoid dependencies or external libraries.
 - Use simple inline styles sparingly to enhance readability where necessary.
@@ -96,7 +96,7 @@ jobs:
 - Avoid introducing JavaScript, CSS frameworks, or other languages unless absolutely, and we mean ABSOLUTELY, necessary.
 
 ## Deployment
-This repository is automatically deployed to GitHub Pages. Changes pushed to the `main` branch are reflected at:
+This repository is automatically deployed to GitHub Pages. Changes pushed to the `homepage` branch are reflected at:
 ```
 https://uor-foundation.github.io/uor-homepage/
 ```
@@ -105,7 +105,7 @@ https://uor-foundation.github.io/uor-homepage/
 This repository's file and folder structure is under construction...
 
 ## Vision
-The UOR Foundation Homepage demonstrates how combining the elegance of pure HTML with the automation capabilities of GitHub Actions can create powerful, maintainable, and user-focused websites. It challenges the modern tendency toward over-engineering, proving that simplicity can coexist with robust & rich functionality.
+The UOR Foundation's Homepage demonstrates how combining the elegance of pure HTML with the automation capabilities of GitHub Actions can create powerful, maintainable, and user-focused websites. It challenges the modern tendency toward over-engineering, proving that simplicity can coexist with robust & rich functionality. And it is the front door into the world of UOR!
 
 ---
 
@@ -116,4 +116,4 @@ For questions or feedback, please reach out via the [Contact page](https://<org-
 
 ---
 
-<small>The business of the foundation is building capability, and business is good!</small>
+<small>* The business of the foundation is building capability. And business is good!</small>
