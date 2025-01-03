@@ -1,0 +1,28 @@
+name: List PDFs
+
+on:
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  list-pdfs:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v3
+
+    - name: Generate PDF List
+      run: |
+        echo '<!DOCTYPE html><html><body><h1>Available PDFs</h1><ul>' > index.html
+        find . -name "*.pdf" | sed 's|^./||' | while read -r file; do
+          echo "<li><a href='https://raw.githubusercontent.com/UOR-Foundation/uor-documentation/main/$file' target='_blank'>$file</a></li>" >> index.html
+        done
+        echo '</ul></body></html>' >> index.html
+
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add index.html
+        git commit -m "Update PDF list"
+        git push
