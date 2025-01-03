@@ -13,7 +13,7 @@ The [**Official UOR Fundation Homepage**](https://uor-foundation.github.io/uor-h
 
 This repository embraces the philosophy of simplicity, using **pure HTML** to create *form* combined with the power of **GitHub Actions** to create *function*al, elegant, and efficient web pages without relying on JavaScript, CSS, or other additional languages.
 
-The index.html in the same folder as this README.md is the OFFICIAL Hompage of the UOR Foundation.
+The [index.html](./index.html) file **IS** the OFFICIAL Hompage of the UOR Foundation. Located in the same folder as this README.md file.
 
 ## Purpose
 This repository is dedicated to:
