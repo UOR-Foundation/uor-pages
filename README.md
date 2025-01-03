@@ -1,20 +1,26 @@
 # UOR Foundation Official Homepage Repository
 
+**Call to all Old Skool webpage developers!!!**
+
+**In need of plain HTML and simple JavaScript code!!!**
+
 Welcome to the **UOR Foundation Homepage Repository**, the central hub for the development and maintenance of the **OFFICIAL UOR FOUNDATION HOMEPAGE** of the UOR Foundation. This homepage serves as the authoritative entry point for everything related to the UOR Foundation, providing access to all pages, projects, content, and governance materials in support of the Foundation’s mission.
 
-## Homepage Mission
-The UOR Foundation Homepage is committed to:
+## Homepage website and repo Mission
+The UOR Foundation Homepage website:
+- https://uor-foundation.github.io/uor-pages/
 - Simplicity, clarity, and usability.
 - Adhering to the **3-click rule**: Visitors should be able to access any content or resource within three clicks from the homepage.
 - Acting as a unified, well-organized gateway to all UOR Foundation resources.
 
-This repository is where creators and maintainers collaborate to ensure the homepage remains:
+This homepage's repository:
+- https://github.com/UOR-Foundation/uor-pages
 - **Elegant**: Minimalistic and functional, following the principles of early web design.
 - **Evolving**: Adapting to the growing needs of the Foundation while maintaining simplicity.
 - **Comprehensive**: Linking to every project, policy, and document relevant to the UOR Foundation.
 
 ## Repository Structure
-The repository is structured is expected to change and evolve as we figure this out.
+The repository structured is expected to change and evolve as we figure this out.
 
 ## Guidelines for Creators and Maintainers
 
