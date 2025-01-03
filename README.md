@@ -1,6 +1,6 @@
 # UOR Foundation Official Homepage Repository
 
-Welcome to the **UOR Foundation Homepage Repository**, the central hub for the development and maintenance of the **official homepage** of the UOR Foundation. This homepage serves as the authoritative entry point for everything related to the UOR Foundation, providing access to all pages, projects, content, and governance materials in support of the Foundation’s mission.
+Welcome to the **UOR Foundation Homepage Repository**, the central hub for the development and maintenance of the **OFFICIAL UOR FOUNDATION HOMEPAGE** of the UOR Foundation. This homepage serves as the authoritative entry point for everything related to the UOR Foundation, providing access to all pages, projects, content, and governance materials in support of the Foundation’s mission.
 
 ## Mission
 The UOR Foundation Homepage is committed to:
