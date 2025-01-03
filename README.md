@@ -15,6 +15,7 @@ The UOR Foundation Homepage website:
 
 This homepage's repository:
 - https://github.com/UOR-Foundation/uor-pages
+- index.html in this repo sources the homepage
 - **Elegant**: Minimalistic and functional, following the principles of early web design.
 - **Evolving**: Adapting to the growing needs of the Foundation while maintaining simplicity.
 - **Comprehensive**: Linking to every project, policy, and document relevant to the UOR Foundation.
