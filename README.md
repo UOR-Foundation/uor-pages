@@ -17,7 +17,7 @@ This repository embraces the philosophy of simplicity, using **pure HTML** to cr
 ## Purpose
 This repository is dedicated to:
 - The overall development of new devops workflows in support of the UOR Machine.
-- Providing a central entry point for all UOR Foundation resources while adhering to the principle of simplicity and the [**3-click rule**](https://en.wikipedia.org/wiki/Three-click_rule).
+- Providing a central **entry point** for all UOR Foundation resources while adhering to the principle of simplicity and the [**3-click rule**](https://en.wikipedia.org/wiki/Three-click_rule).
 - Leveraging **GitHub Actions** for backend automation, content updates, and dynamic functionality without introducing additional complexity.
 - Demonstrating the power of **pure HTML** as a foundational tool for creating accessible and elegant websites.
 
