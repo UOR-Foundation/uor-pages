@@ -1,57 +1,50 @@
-<header>
+# UOR Foundation Official Homepage Repository
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to the **UOR Foundation Homepage Repository**, the central hub for the development and maintenance of the **official homepage** of the UOR Foundation. This homepage serves as the authoritative entry point for everything related to the UOR Foundation, providing access to all pages, projects, content, and governance materials in support of the Foundation’s mission.
 
-# GitHub Pages
+## Mission
+The UOR Foundation Homepage is committed to:
+- Simplicity, clarity, and usability.
+- Adhering to the **3-click rule**: Visitors should be able to access any content or resource within three clicks from the homepage.
+- Acting as a unified, well-organized gateway to all UOR Foundation resources.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+This repository is where creators and maintainers collaborate to ensure the homepage remains:
+- **Elegant**: Minimalistic and functional, following the principles of early web design.
+- **Evolving**: Adapting to the growing needs of the Foundation while maintaining simplicity.
+- **Comprehensive**: Linking to every project, policy, and document relevant to the UOR Foundation.
 
-</header>
+## Repository Structure
+The repository is structured is expected to change and evolve as we figure this out.
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+## Guidelines for Creators and Maintainers
 
-## Finish
+### Content Development
+- All content must aim to the **3-click rule** from homepage.
+- Current theme is a **retro web design aesthetic** using plain html and simple javaScripts, prioritizing simplicity and usability.
+- Ensure all links are functional and clearly labeled.
 
-_Congratulations friend, you've completed this course!_
+### Contributions
+- Use **pull requests** for changes to the homepage files to allow for review.
+- Create an established folder structure to keep the repository organized.
+- Use plain HTML or Markdown where possible to maintain simplicity.
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+## Future Growth
+The homepage will evolve over time to accommodate:
+- New projects and repositories.
+- Expanded documentation and resources.
+- Feedback from users and contributors.
 
-Your blog is now live and has been deployed!
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<org-name>/uor-pages.git
+   ```
+2. Make changes locally and test them using a simple local web server (e.g., `python -m http.server`).
+3. Commit your changes and open a pull request for review.
 
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## Contact
+For questions or feedback, please reach out via the [Contact page](https://<org-name>.github.io/uor-pages/contact.html) on the homepage.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Thank you for helping us maintain a clear and functional entry point for the UOR Foundation!
