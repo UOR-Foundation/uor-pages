@@ -4,7 +4,7 @@
 
 **In need of plain HTML code!!!**
 
-Welcome to the UOR Foundation Homepage [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the "OFFICIAL" UOR Foundation [**Homepage**](https://uor-foundation.github.io/uor-homepage/) and your own UOR website! 
+Welcome to the UOR Foundation Homepage [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the "OFFICIAL" UOR Foundation [**Homepage**](https://uor-foundation.github.io/uor-homepage/) and [your own UOR website](https://github.com/UOR-Foundation/uor-homepage/tree/homepage/uor-webpages)! 
 
 - The [index.html](./index.html) file **IS** the OFFICIAL Hompage of the UOR Foundation. Located in the same folder as this README.md file.
 
