@@ -2,7 +2,7 @@
 
 Welcome to the **UOR Foundation Homepage Repository**, the central hub for the development and maintenance of the **OFFICIAL UOR FOUNDATION HOMEPAGE** of the UOR Foundation. This homepage serves as the authoritative entry point for everything related to the UOR Foundation, providing access to all pages, projects, content, and governance materials in support of the Foundation’s mission.
 
-## Mission
+## Homepage Mission
 The UOR Foundation Homepage is committed to:
 - Simplicity, clarity, and usability.
 - Adhering to the **3-click rule**: Visitors should be able to access any content or resource within three clicks from the homepage.
