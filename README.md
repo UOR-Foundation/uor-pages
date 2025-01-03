@@ -89,7 +89,7 @@ jobs:
 - Use simple inline styles sparingly to enhance readability where necessary.
 
 ## Contributing
-- Contributions must adhere to the repository’s simplicity-first approach.
+- Contributions must adhere to the repository’s simplicity-first approach (Policy #3).
 - Use **pull requests** for any changes, ensuring they align with the purpose of the repository.
 - Avoid introducing JavaScript, CSS frameworks, or other languages unless absolutely, and we mean ABSOLUTELY, necessary.
 
