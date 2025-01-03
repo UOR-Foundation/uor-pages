@@ -13,6 +13,8 @@ The [**Official UOR Fundation Homepage**](https://uor-foundation.github.io/uor-h
 
 This repository embraces the philosophy of simplicity, using **pure HTML** to create *form* combined with the power of **GitHub Actions** to create *function*al, elegant, and efficient web pages without relying on JavaScript, CSS, or other additional languages.
 
+The index.html in the same folder as this README.md is the OFFICIAL Hompage of the UOR Foundation.
+
 ## Purpose
 This repository is dedicated to:
 - The overall development of new devops workflows in support of the UOR Machine.
