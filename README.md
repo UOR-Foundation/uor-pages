@@ -4,7 +4,7 @@
 
 **In need of plain HTML code!!!**
 
-Welcome to the UOR Foundation Homepage [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the "OFFICIAL" UOR Foundation [**Homepage**](https://uor-foundation.github.io/uor-homepage/). 
+Welcome to the UOR Foundation Homepage [**Repository**](https://github.com/UOR-Foundation/uor-homepage), the central hub for the development and maintenance of the "OFFICIAL" UOR Foundation [**Homepage**](https://uor-foundation.github.io/uor-homepage/) and your own UOR website! 
 
 - The [index.html](./index.html) file **IS** the OFFICIAL Hompage of the UOR Foundation. Located in the same folder as this README.md file.
 
@@ -87,7 +87,7 @@ jobs:
 ### 3. **Maintaining Simplicity**
 - The [**3-click rule**](https://en.wikipedia.org/wiki/Three-click_rule).
 - Focus on plain content delivery.
-- Avoid dependencies or external libraries.
+- Disregard dependencies or external libraries.
 - Use simple inline styles sparingly to enhance readability where necessary.
 
 ## Contributing
@@ -101,9 +101,34 @@ This repository is automatically deployed to GitHub Pages. Changes pushed to the
 https://uor-foundation.github.io/uor-homepage/
 ```
 
-## Repository Structure
-This repository's file and folder structure is under construction...
+## UOR Webpage Static File Structure
+Under construction...
 
+uor-homepage/webpages
+root/                   # Main directory
+├── index.html          # Homepage
+├── assets/             # Static assets
+│   ├── images/         # Folder for images
+│   │   ├── logo.png    # Logo file
+│   │   └── banner.jpg  # Banner image
+│   └── styles.css      # CSS file for styling
+├── docs/               # Documentation folder
+│   └── manual.pdf      # User manual
+├── pages/              # Additional HTML pages
+│   ├── about.html      # About page
+│   └── contact.html    # Contact page
+└── blog/               # Blog directory
+    ├── 2025-01-01.html # Example blog post
+    └── 2025-01-02.html # Another blog post
+
+
+## UOR Webpage Dynamic File Workflow
+Under construction...
+
+Describe dynamic workflow: 
+
+Github actions triggered &rarr; read input files (any data accessed) &rarr;  execute desired workflow on data (compute data) &rarr; write outputs (.html objects) in static structure?? &rarr;  display of new .html file generated in browser
+ 
 ## Vision
 The UOR Foundation's Homepage demonstrates how combining the elegance of pure HTML with the automation capabilities of GitHub Actions can create powerful, maintainable, and user-focused websites. It challenges the modern tendency toward over-engineering, proving that simplicity can coexist with robust & rich functionality. And it is the front door into the world of UOR!
 
